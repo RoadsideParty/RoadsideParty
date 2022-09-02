@@ -1,4 +1,4 @@
-<h3 align="center">Hello ![23A371ED](https://user-images.githubusercontent.com/54093484/188057963-522b752b-c98f-4f5f-a6f1-5af5be6bd8e7.png)</h3>
+<h3 align="center">Hello 👏</h3>
 
 ---
 
